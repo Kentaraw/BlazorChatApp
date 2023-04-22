@@ -1,0 +1,5 @@
+C:\Users\murak\source\repos\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.AssemblyReference.cache
+C:\Users\murak\source\repos\BlazorApp1\obj\Debug\net6.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murak\source\repos\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\murak\source\repos\BlazorApp1\obj\Debug\net6.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\murak\source\repos\BlazorApp1\obj\Debug\net6.0\BlazorApp1.csproj.CoreCompileInputs.cache
